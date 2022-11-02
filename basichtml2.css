@@ -1,0 +1,132 @@
+/*
+comment in css
+
+*/
+
+
+#heading 
+{
+    font-size: 40px;
+    text-align:center;
+
+    padding-top:50px ;
+    margin: 0px;
+}
+
+#h4
+{
+    text-align: center;
+    font-size: 12.5px;
+    padding-top:0px;
+    padding-bottom: 50px;
+    margin:0px 0px 0px 0px;
+}
+
+
+#heading,h4{
+    color:white;
+    background-color:#00004f;
+}
+#title{
+    background-size: 130px 130px ;
+    /*display: flex;*/
+
+}
+
+#menubar{
+    color:white ;
+    margin: 0px 0px 0px 0px;
+    padding: 10px 300px 20px 300px;
+    
+    
+}
+
+#welcome{
+    text-align: center;
+
+    margin: 0px;
+    padding-bottom: 10px;
+    
+}
+
+.a{
+    
+    padding: 0px 180px 0 180px;
+    align-items: center;
+}
+
+.b{
+    
+    padding: 0px 500px 0 500px;
+    margin: 0px 0px 0px 0px;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+
+.box{
+    float: left;
+    border: 1px solid black;
+    width: 48%;
+    height: 664.5px;
+    margin: 5px;
+    padding:5px;
+    position: relative;
+
+
+}
+    
+.mess{
+    text-align: center;
+    font-size: large;
+    color: red;
+
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+    
+}
+.packageinfo{
+    text-align: right;
+    margin: 0px 500px 0px 500px;
+   
+    top: -31px;
+    background:aliceblue;
+    right: 15px;
+    padding: 10px;
+}
+
+#batch{
+    text-align: right;
+    margin-top: 0px;
+}
+
+#infobox{
+    background-color: antiquewhite;
+}
+
+.button{
+    position: fixed;
+    right: 2rem;
+    bottom: 2rem;
+}
+
+.hidden{
+    display: none;
+}
+
+.t3-box{
+    border: 1px solid black ;
+    width: 100%;
+    display: flex;
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 200px;
+}
+
+.t3-box-1{
+    border: 1px solid black;
+    margin: 0px 10px 0px 10px;
+
+}
